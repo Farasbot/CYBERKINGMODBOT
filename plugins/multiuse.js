@@ -5,10 +5,10 @@ const IG_DESC = "Downloads Image/Video From Instagram"
 
 Asena.addCommand({ pattern: 'insta ?(.*)', fromMe: false, desc: IG_DESC }, async (message, match) => {
     //if(match[1] == '') return
-    let { data, type } = await instaGram(match[1], 'f3eaf19231f6201c');
+    let { data, type } = await instaGram(match[1], 'd90a9e986e18778b');
     //if(type == undefined) return 
-    if (type === 'image') { await message.sendMessage(data, MessageType.image, { caption: "💁🏻‍♀️Here is your Instagram image...⬇️Downloaded by 💘Meenakshi💘" }) }
-    else if (type === 'video') { await message.sendMessage(data, MessageType.video, { caption: "💁🏻‍♀️Here is your Instagram video...⬇️Downloaded by 💘Meenakshi💘" }) }
+    if (type === 'image') { await message.sendMessage(data, MessageType.image, { caption: "⬇️Downloaded By Meenakshi💁🏻‍♀️" }) }
+    else if (type === 'video') { await message.sendMessage(data, MessageType.video, { caption: "⬇️Downloaded By Meenakshi💁🏻‍♀️" }) }
 });
 //const axios = require('axios')
 async function instaGram(url, key){
