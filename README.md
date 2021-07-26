@@ -29,6 +29,33 @@ Project created by <a href="https://github.com/vishnu-memanakizhakathil">vishnu-
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
+<h3 align="center">Contact Me:</h3>
+<p align="center">
+<a href="https://instagram.com/ig.zero.x2k_linda?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+</p>
+<h4 align="center">Support Video For Deploy Bot 👇:</h4>
+<p align="center">
+<a href="https://youtu.be/_D4ZYuUSXjs" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+</p>
+  
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phaticusthiccy&show_icons=true&layout=compact&theme=nightowl" alt="phaticusthiccy" /></p>
+-->
+<div align="center">
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnu-memanakizhakathil&show_icons=true&theme=nightowl" alt="vishnu-memanakizhakathil" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnu-memanakizhakathil&theme=nightowl" alt="vishnu-memanakizhakathil" /></p>
+</details> </div>
+
+<div align="center">
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/ameer-kallumthodi?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
+
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=vishnu-memanakizhakathil&repo=wabot-aq)](https://github.com/vishnu-memanakizhakathil/wabot-aq)
+
+</div>
+
+
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
