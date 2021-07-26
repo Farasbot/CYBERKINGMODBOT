@@ -49,6 +49,8 @@ Project created by <a href="https://github.com/vishnu-memanakizhakathil">vishnu-
 <div align="center">
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
+![Metrics](https://metrics.lecoq.io/vishnu-memanakizhakathil?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
+
 [![News](https://github-readme-stats.vercel.app/api/pin/?username=vishnu-memanakizhakathil&repo=wabot-aq)](https://github.com/vishnu-memanakizhakathil/wabot-aq)
 
 </div>
