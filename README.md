@@ -60,7 +60,7 @@ Project created by <a href="https://github.com/vishnu-memanakizhakathil">vishnu-
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/GUhzlg6Yhkj611fLl5HkpN)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Cj8KuqHIy1i3TF9yByBMJR)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vishnu-memanakizhakathil&repo=Meenakshi&theme=nightowl)](https://github.com/vishnu-memanakizhakathil/Meenakshi)
@@ -142,6 +142,9 @@ Asena സ്ഥാപിക്കുന്നതിലൂടെ, നിങ്ങ
 [vishnu-memanakizhakathil](https://github.com/vishnu-memanakizhakathil)  |
 Author, Base, Bug Fixes, Modules, Modifying as public | 
 
+## Contact Git Owner
+
+### wa.me/916235989299
 
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
