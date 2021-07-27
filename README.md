@@ -22,11 +22,11 @@ Project created by <a href="https://github.com/vishnu-memanakizhakathil">vishnu-
   <a href="httsp://github.com/vishnu-memanakizhakathil/Meenakshi">
     <img src="https://img.shields.io/github/repo-size/vishnu-kayamkulam/Meenakshi?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/vishnu-memanakizhakathil/followers"><img title="Followers" src="https://img.shields.io/github/followers/vishnu-kayamkulam?color=blue&style=flat-square"></a>
-<a href="https://github.com/vishnu-memanakizhakathil/Meenakshi/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/vishnu-kayamkulam/Meenakshi?color=blue&style=flat-square"></a>
-<a href="https://github.com/vishnu-memanakizhakathil/Meenakshi/network/members"><img title="Forks" src="https://img.shields.io/github/forks/vishnu-kayamkulam/Meenakshi?color=blue&style=flat-square"></a>
-<a href="https://github.com/vishnu-memanakizhakathil/Meenakshi/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/vishnu-kayamkulam/Meenakshi?label=Watchers&color=blue&style=flat-square"></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
+<a href="https://github.com/vishnu-memanakizhakathil/followers"><img title="Followers" src="https://img.shields.io/github/followers/vishnu-kayamkulam?color=pink&style=flat-square"></a>
+<a href="https://github.com/vishnu-memanakizhakathil/Meenakshi/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/vishnu-kayamkulam/Meenakshi?color=pink&style=flat-square"></a>
+<a href="https://github.com/vishnu-memanakizhakathil/Meenakshi/network/members"><img title="Forks" src="https://img.shields.io/github/forks/vishnu-kayamkulam/Meenakshi?color=pink&style=flat-square"></a>
+<a href="https://github.com/vishnu-memanakizhakathil/Meenakshi/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/vishnu-kayamkulam/Meenakshi?label=Watchers&color=pink&style=flat-square"></a>
+<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-pink.svg"</a>
 </p>
 
 <h3 align="center">Contact Me:</h3>
